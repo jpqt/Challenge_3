@@ -30,7 +30,11 @@ Plotted through a few different times to determine if arbitration would be possi
 Example:
 ![Jan25arbitrage](https://github.com/jpqt/Challenge_3/blob/main/Starter_Code/Resources/jan25.png?raw=true)
 
+Profits Per Trade.
+![Jan25arbitrage](https://github.com/jpqt/Challenge_3/blob/main/Starter_Code/Resources/jan25-1.png?raw=true)
 
+Early Cumulative Totals.
+![Jan25arbitrage](https://github.com/jpqt/Challenge_3/blob/main/Starter_Code/Resources/jan25-2.png?raw=true)
 
 ## Contributers
 
