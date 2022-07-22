@@ -26,8 +26,10 @@ Clone GitHub Respoitories to yoour local machine
 
 ## Usage
 Plotted through a few different times to determine if arbitration would be possible.
-![Jan25arbitrage](http://url/to/img.png)
-![Jan25arbitrage](https://github.com/[jpqt]/[Challenge_3]/blob/[main]/jan25.png?raw=true)
+
+Example:
+![Jan25arbitrage](https://github.com/jpqt/Challenge_3/blob/main/Starter_Code/Resources/jan25.png?raw=true)
+
 
 
 ## Contributers
