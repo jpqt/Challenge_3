@@ -1,6 +1,7 @@
 # Cryto Arbitrage
-Week 3 Challege
+Sorting through historical price data on Bitcoin on the exchanges Bitstamp and Coinbase provided further analysis to determine whether there were an opportunities for arbitration from the exchanges.
 
+Worked on through Jupiter Labs
 
 ## Technologies
 
@@ -24,11 +25,14 @@ Clone GitHub Respoitories to yoour local machine
 
 
 ## Usage
+Plotted through a few different times to determine if arbitration would be possible.
+
 
 ## Contributers
 
-Name:Joshua Pak
-E-Mail:taehanpak9@du.bootcamp.edu
+Name: Joshua Pak
+
+E-Mail: taehanpak9@du.bootcamp.edu
 
 ## License
 DU 2022
